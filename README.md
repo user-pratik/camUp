@@ -1,14 +1,14 @@
 # camUp — Legal & Policy Pages
 
 This repository hosts the official public legal and policy documentation for **camUp** via GitHub Pages at:
-**[https://user-pratik.github.io/camUp/](https://user-pratik.github.io/camUp/)**
+**[https://camUp.pratikanand.dpdns.org/](https://camUp.pratikanand.dpdns.org/)**
 
 ## Hosted Pages
 
-* **Documentation Hub:** [https://user-pratik.github.io/camUp/](https://user-pratik.github.io/camUp/) (`docs/index.md`)
-* **Privacy Policy:** [https://user-pratik.github.io/camUp/privacy-policy.html](https://user-pratik.github.io/camUp/privacy-policy.html) (`docs/privacy-policy.md`)
-* **Account & Data Deletion:** [https://user-pratik.github.io/camUp/delete-account.html](https://user-pratik.github.io/camUp/delete-account.html) (`docs/delete-account.md`)
-* **Terms of Service:** [https://user-pratik.github.io/camUp/terms-of-service.html](https://user-pratik.github.io/camUp/terms-of-service.html) (`docs/terms-of-service.md`)
+* **Documentation Hub:** [https://camUp.pratikanand.dpdns.org/](https://camUp.pratikanand.dpdns.org/) (`docs/index.md`)
+* **Privacy Policy:** [https://camUp.pratikanand.dpdns.org/privacy-policy.html](https://camUp.pratikanand.dpdns.org/privacy-policy.html) (`docs/privacy-policy.md`)
+* **Account & Data Deletion:** [https://camUp.pratikanand.dpdns.org/delete-account.html](https://camUp.pratikanand.dpdns.org/delete-account.html) (`docs/delete-account.md`)
+* **Terms of Service:** [https://camUp.pratikanand.dpdns.org/terms-of-service.html](https://camUp.pratikanand.dpdns.org/terms-of-service.html) (`docs/terms-of-service.md`)
 
 ---
 
